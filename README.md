@@ -7,7 +7,10 @@ In the competitive credit card industry, customer retention is key. Our Credit C
 2. User-friendly interface: Streamlit's integration into the project's web interface is innovative as it ensures access for a wide range of users, including those with limited technical knowledge. Make it easy to interact with complex data and predictions.
 
 3. Adaptability: The high adaptability of the design represents a significant innovation.They can be customized to specific business requirements, data sets and use cases, allowing companies to tailor the solution to their specific needs.
-![Uploading Readme.png…]()
+
+
+
+![Readme](https://github.com/ishreyaa07/Credit_Card_Churn_Prediction/assets/98052441/2122a4bb-36eb-485e-abdf-238c213ac9d4)
 
 
 
